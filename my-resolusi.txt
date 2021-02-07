@@ -3,3 +3,4 @@ MY RESOLUSI TAHUN 2021
 - Belajar Javascript
 - Belajar Codeigniter 4
 - Belajar RestAPI
+- Membuat Aplikasi Web E-Commerce
