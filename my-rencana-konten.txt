@@ -4,3 +4,6 @@ MY RENCANA KONTEN
 - Web Design
 - Mobile App
 - Codeigniter 4
+- Photoshop
+- CorelDraw
+- Web Application
