@@ -5,3 +5,4 @@ MY RENCANA KONTEN
 - Mobile App
 - Photoshop
 - CorelDraw
+- Web Application
