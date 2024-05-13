@@ -1,9 +1,0 @@
-MY RENCANA KONTEN 
-
-- C++, C#
-- Web Design
-- Mobile App
-- Codeigniter 4
-- Photoshop
-- CorelDraw
-- Web Application
